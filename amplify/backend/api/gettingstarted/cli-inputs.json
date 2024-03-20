@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "gettingstarted",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authgettingstarted50e9f546"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
